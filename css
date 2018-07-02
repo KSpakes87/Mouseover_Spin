@@ -12,6 +12,10 @@ ul {
   font-family:arial;
 }
 ul > li {
+  display:inline-block;
   list-style-type:none;
   cursor:default;
+}
+.spin {
+  transform:rotateY(360deg);
 }
