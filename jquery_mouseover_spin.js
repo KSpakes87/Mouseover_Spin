@@ -29,7 +29,7 @@ $(document).ready(function() {
     $(this).css({"transition":"1.5s"});
     $(this).addClass("spin");
   });
-  $(".li1").mouseout(function() {
+  $(".li3").mouseout(function() {
     setTimeout(function() {
       $(".li3").css({"transition":"0s"});
       $(".li3").removeClass("spin");
@@ -55,7 +55,7 @@ $(document).ready(function() {
     $(this).css({"transition":"1.5s"});
     $(this).addClass("spin");
   });
-  $(".li1").mouseout(function() {
+  $(".li5").mouseout(function() {
     setTimeout(function() {
       $(".li5").css({"transition":"0s"});
       $(".li5").removeClass("spin");
