@@ -1,4 +1,4 @@
-# Mouseover_Spin
+# Mouseover Spin
 Spin an element (ex. List Item, Paragraph, Heading, Image, etc.) when moused over, complete the rotation, and able to be fired again.
 I have the script using classes. You can change the classes to your own. Copy and paste a block and change the class name to make more
 or delete blocks to your need. I'm sure there is a simpler way to have just one code block and use a variable to change classes, but
